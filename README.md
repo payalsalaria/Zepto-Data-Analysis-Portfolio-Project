@@ -38,4 +38,11 @@ weightInGms: Product weight in grams
 
 outOfStock: Boolean flag indicating stock availability
 
+# Project Overflow :
+
+Here’s a step-by-step breakdown of what we do in this project:
+
+# 1. Database & Table Creation
+We start by creating a SQL table with appropriate data types:
+
 quantity: Number of units per package (mixed with grams for loose produce)
