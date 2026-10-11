@@ -42,7 +42,17 @@ outOfStock: Boolean flag indicating stock availability
 
 Here’s a step-by-step breakdown of what we do in this project:
 
-# 1. Database & Table Creation
-We start by creating a SQL table with appropriate data types:
+# 1. Data Exploration : 
+Counted the total number of records in the dataset
+
+Viewed a sample of the dataset to understand structure and content
+
+Checked for null values across all columns
+
+Identified distinct product categories available in the dataset
+
+Compared in-stock vs out-of-stock product counts
+
+Detected products present multiple times, representing different SKUs
 
 quantity: Number of units per package (mixed with grams for loose produce)
